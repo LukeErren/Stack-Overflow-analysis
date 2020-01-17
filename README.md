@@ -1,4 +1,4 @@
-# Stackoverflow_analysis
+# Stackoverflow analysis
 A three-year analysis of the Stackoverflow survey
 
 ## About
@@ -7,4 +7,4 @@ This repository contains the Jupyer notebook with the source code used for the b
 ## Usage
 
 ## Data 
-The data used can downloaded from the website from Stackoverflow
+The data used can downloaded from the website from Stackoverflow. I used the surveys from 2017, 2018 and 2019
