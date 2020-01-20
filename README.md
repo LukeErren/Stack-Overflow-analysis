@@ -1,5 +1,5 @@
-# Stackoverflow analysis
-A three-year analysis of the Stackoverflow survey
+# Stack Overflow analysis
+A three-year analysis of the Stack Overflow survey
 
 ## About
 This repository contains the Jupyer notebook with the source code used for the blogpost ****. In this project 
