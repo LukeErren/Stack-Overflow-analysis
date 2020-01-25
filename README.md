@@ -2,7 +2,7 @@
 A three-year analysis of the Stack Overflow survey
 
 ## About
-This repository contains the Jupyer notebook with the source code used for the blogpost [https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680). In this project 
+This repository contains the Jupyer notebook with the source code used for the blogpost [What does the yearly Stack Overflow survey tell us?](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680). In this project 
 
 ## Usage
 I've splited the analysis into three parts :
