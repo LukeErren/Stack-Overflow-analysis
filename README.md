@@ -6,11 +6,11 @@ This repository contains the Jupyer notebook with the source code used for the b
 -- Include motivatation
 
 ## Files
-2017 survey_results_public.zip	- The zipped survey results of 2017
-2018 survey_results_public.zip	- The zipped survey results of 2018
-2019 survey_results_public.zip	- The zipped survey results of 2019
-README.md - This file
-Stack Overflow Survey analysis.ipynb - The Jupyter notebook with the analysis
+- 2017 survey_results_public.zip	- The zipped survey results of 2017
+- 2018 survey_results_public.zip	- The zipped survey results of 2018
+- 2019 survey_results_public.zip	- The zipped survey results of 2019
+- README.md - This file
+- Stack Overflow Survey analysis.ipynb - The Jupyter notebook with the analysis
 
 ## Dependencies
 This Python 3 workbook uses the following libraries:
