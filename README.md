@@ -25,3 +25,13 @@ Dowload the files to your Jupyter notebook directoy and un-zip the data files in
 ## Data 
 The data files in this repository is an unaltered copy of the data that can be downloaded from the website from Stack Overflow. I used the surveys from 2017, 2018 and 2019.
 https://insights.stackoverflow.com/survey
+
+## CRISP-DM
+For this analsys I've made use of the CRISP-DM method. It's consists of the folowing six steps:
+
+### 1. Business Understanding
+From the data I want to answer the following questions :
+#### 1. From which country do most users come?
+#### 2. How many programming languages do the user use?
+#### 3. What are the most popular programming languages?
+#### 4. Does number of programming languages influence income?
