@@ -31,7 +31,12 @@ For this analsys I've made use of the CRISP-DM method. It's consists of the folo
 
 ### 1. Business Understanding
 From the data I want to answer the following questions :
-#### 1. From which country do most users come?
-#### 2. How many programming languages do the user use?
-#### 3. What are the most popular programming languages?
-#### 4. Does number of programming languages influence income?
+* From which country do most users come?
+* How many programming languages do the user use?
+* What are the most popular programming languages?
+* Does number of programming languages influence income?
+
+### 2. Data Understanding
+The data consists of three separate files with the Stack Overfolw survey. Downloaded from the Stack Overflow website
+
+### 3.
