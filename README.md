@@ -6,7 +6,7 @@ Stack Overflow hosts a community where users can ask and answer questions about 
 This repository contains the Jupyer notebook with the source code used for the blogpost [What does the yearly Stack Overflow survey tell us?](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680). 
 
 ## CRISP-DM
-For this analsys I've made use of the CRISP-DM method. It's consists of the folowing six steps:
+For this analsys I've made use of the CRISP-DM method.
 
 ### 1. Business Understanding
 From the data I want to answer the following questions :
