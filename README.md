@@ -6,7 +6,7 @@ Stack Overflow hosts a community where users can ask and answer questions about 
 This repository contains the Jupyer notebook with the source code I used for the blogpost [What does the yearly Stack Overflow survey tell us?](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680)
 
 ## CRISP-DM
-For this analsys I've made use of the CRISP-DM method.
+For this analysis I've made use of the CRISP-DM method;
 
 ### 1. Business Understanding
 From the data I want to answer the following questions :
@@ -22,17 +22,17 @@ The data files in this repository is an unaltered copy of the data that can be d
 https://insights.stackoverflow.com/survey
 
 ### 3. Data Preparation
-* All three years of the suvey where loaded in one dataframe
+* All three years of the survey where loaded in one dataframe
 * Harmonize the data; corrected different spellings. Like Viet Nam and Vietnam
-* Delete some smaler programming languages, because there was no option to choose in all three years
+* Delete some smaller  programming languages, because there was no option to choose in all three years
 
 ### 4. Modeling the Data
-Pivot tables where used for making the insights. Also some extra columns where added to make trends visable.
+Pivot tables where used for making the insights. Also some extra columns where added to make trends visible.
 
 ### 5. Results
-* **From which country do most users come?**<br/>The top thre countries are United States, India and Germany. For all three years
+* **From which country do most users come?**<br/>The top three countries are United States, India and Germany. For all three years
 * **How many programming languages do the user use?**<br/>An user uses on average 3.5 programming languages in 2017. And has increased to just below 4 in 2019.
-* **What are the most popular programming languages?**<br/>The most popular programming languages ase JavaScript, SQL and Python
+* **What are the most popular programming languages?**<br/>The most popular programming languages are JavaScript, SQL and Python
 * **Does number of programming languages influence income?**<br/>Yes, a large number of Programming Languages has a negative influence on the salary if its more than about ten.
 
 See the full blog post at : [What does the yearly Stack Overflow survey tell us?](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680). 
