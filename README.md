@@ -1,7 +1,7 @@
 # Stack Overflow analysis
 
 ## Motivation
-Stack Overflow hosts a community where users can ask and answer questions about computer programming. They have an annual survey where they examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software. I wanted to investigate if there were any trends in the last three years.
+Stack Overflow hosts a community where users can ask and answer questions about computer programming. They have an annual survey where they examines all aspects of the developer experience. I wanted to investigate if there were any trends in the last three years.
 
 This repository contains the Jupyer notebook with the source code used for the blogpost [What does the yearly Stack Overflow survey tell us?](https://medium.com/@lukeerren/what-does-the-yearly-stack-overflow-survey-tell-us-ef273b882680). 
 
