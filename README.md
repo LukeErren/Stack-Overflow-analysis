@@ -43,7 +43,7 @@ The data consists of three separate files with the Stack Overfolw survey. Downlo
 
 ## Results
 * From which country do most users come?
-The top thre countries are United States, India and Germany. For all three years
+  The top thre countries are United States, India and Germany. For all three years
 * How many programming languages do the user use?
 An user uses on average 3.5 programming languages in 2017. And has increased to just below 4 in 2019.
 * What are the most popular programming languages?
